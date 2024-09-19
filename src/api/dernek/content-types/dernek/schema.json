@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "derneks",
+  "info": {
+    "singularName": "dernek",
+    "pluralName": "derneks",
+    "displayName": "Dernek"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "DERNEK_ADI": {
+      "type": "string"
+    },
+    "KURULUS_TARIHI": {
+      "type": "date"
+    },
+    "AKTIF_UYE_SAYISI": {
+      "type": "integer"
+    }
+  }
+}
